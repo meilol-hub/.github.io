@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+header h1 {
+    color: #ff6600;
+}
